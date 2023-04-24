@@ -24,6 +24,11 @@ const quotes = [
     "I cut my hair because you don't care about my heart.",
     "\"Last Christmas, I gave you my heart But the very next day, you gave it away\" - Last Christmas by Wham!",
     "\"Change everything expect someone in my heart.\" - Me",
+    "\"After last night, I think I'm in love with you\" - After Last Night by Bruno Mars , Anderson .Paak & Silk Sonic",
+    "\"Good morning teacher. How are you today? I'm fine, I'm okay. Better than our yesterday.\" - Good Morning Teacher by Atom Chanakan",
+    "\"But the important thing is you're back. With me. And now I'm onto all your little tricks. So there's nothing to stop us from testing for the rest of your life.\" - GlaDOS, Portal 2",
+    "\"I'm not even angry. I'm being so sincere right now. Even though you broke my heart and killed me.\" - Slive Alive by Jonathan Coulton",
+    "\"Go ahead and leave me. I think I prefer to stay inside.\" - Slive Alive by Jonathan Coulton",
 ];
 
 const generateBtn = document.getElementById("generate-btn");
