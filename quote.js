@@ -29,6 +29,7 @@ const quotes = [
     "\"But the important thing is you're back. With me. And now I'm onto all your little tricks. So there's nothing to stop us from testing for the rest of your life.\" - GlaDOS, Portal 2",
     "\"I'm not even angry. I'm being so sincere right now. Even though you broke my heart and killed me.\" - Slive Alive by Jonathan Coulton",
     "\"Go ahead and leave me. I think I prefer to stay inside.\" - Slive Alive by Jonathan Coulton",
+    "\"Science isn't about WHY. It's about WHY NOT. Why is so much of our science dangerous? Why not marry safe science if you love it so much. In fact, why not invent a special safety door that won't hit you on the butt on the way out, because you are fired.\" - Cave Johnson, Portal 2",
 ];
 
 const generateBtn = document.getElementById("generate-btn");
