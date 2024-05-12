@@ -31,6 +31,7 @@ const quotes = [
     "\"Go ahead and leave me. I think I prefer to stay inside.\" - Slive Alive by Jonathan Coulton",
     "\"Science isn't about WHY. It's about WHY NOT. Why is so much of our science dangerous? Why not marry safe science if you love it so much. In fact, why not invent a special safety door that won't hit you on the butt on the way out, because you are fired.\" - Cave Johnson, Portal 2",
     "\"I'm seventeen now, Still at my parents house, Though I would have figured out.\" - 24 (But in 17) by sundial.",
+    "Who thought the meme can be recycle from the other event.",
 ];
 
 const generateBtn = document.getElementById("generate-btn");
