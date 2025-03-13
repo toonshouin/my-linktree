@@ -1,0 +1,28 @@
+{
+    "songs": [
+        {
+            "name": "ความลับมีในโลก (Secert)",
+            "artist": "Ink Waruntorn",
+            "album": "ความลับมีในโลก (Secert) - Single",
+            "url": "https://toonnongaeoy.dino.icu/songs/secert-ink.mp3",
+            "yt_url": "https://www.youtube.com/watch?v=tfs8AoE_XXc",
+            "song_link": "https://song.link/s/12OcSYq9homFUUyerFDGy2"
+        },
+        {
+            "name": "ถังขยะเลย",
+            "artist": "นูโว",
+            "album": "เป็นอย่างงี้ตั้งแต่เกิดเลย",
+            "url": "songs/trash-nuvo.mp3",
+            "yt_url": "https://www.youtube.com/watch?v=FHEdQvdzii8",
+            "song_link": "https://song.link/s/0mTptpWc0vmrcD0eVRTAoz"
+        },
+        {
+            "name": "จีบเธอไม่ได้ (ก็เลยจีบแม่เธอแทน)",
+            "artist": "Trumsey (feat. K-YU)",
+            "album": "จีบเธอไม่ได้ (ก็เลยจีบแม่เธอแทน) - Single",
+            "url": "songs/yourmom.mp3",
+            "yt_url": "https://www.youtube.com/watch?v=RStTF00aR24",
+            "song_link": "https://song.link/s/7lCcXEYm1q2Z7ymF467hkY"
+        }
+    ]
+}

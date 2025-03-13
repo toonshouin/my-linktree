@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		%sveltekit.head%
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div class="flex flex-col items-center justify-center text-center mx-auto max-w-sm p-4">
+			<div class="flex flex-row mt-4">
+				<div>%sveltekit.body%</div>
+			</div>
+			<div class="flex flex-row mt-6">
+				<div>
+					<p>★ 2013 - <span id="current-year"></span> StoryHouse ★</p>
+					<p>★ v2 layout since xx.03.25 ★</p>
+				</div>
+			</div>
+		</div>
+	</body>
+	<script>
+		document.getElementById('current-year').textContent = new Date().getFullYear();
+	</script>
+</html>

@@ -1,63 +1,38 @@
-﻿# ToonStoryTime's Tree Site
+# sv
 
-![Image of the new website.](screenshot/Screenshot%202023-04-24%20at%2018-02-10%20ToonStoryTime's%20Tree.png)
+Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
-## Based on HTML , CSS and some JavaScripts and Inspired by [Linktree](https://linktr.ee).
+## Creating a project
 
-# Features
-- Mobile Support.
-- Modern look design.
-- Random Quotes Everytime.
-- Lightweight
-- Same theme concept as the [my main website](https://github.com/toonnongaeoy/mysite).
+If you're seeing this, you've probably already done this step. Congrats!
 
-# Credit
-[LinkFree](https://github.com/RealNattawattHongthong/LinkFree) By My Friend at Samsung Innovation Campus [(Nattawatt Hongthong)](https://github.com/RealNattawattHongthong)
+```bash
+# create a new project in the current directory
+npx sv create
 
-# Setting up
-Just clone and throw onto your web server of your choice and then You can configure the button in index.html by adding in after wrapper div like this. &nbsp;
-
-```html
-<center>
-<!--- Adding your link here. --->
-<a href="https://example.com" button="" class="button">Example Button</a>
-<!--- Ending here --->
-</center>
+# create a new project in my-app
+npx sv create my-app
 ```
 
-And change your social button in wrapper div like this.
-```html
-<div class="wrapper">
-<!--- Editing your social link here. --->
-<a href="https://fb.com/toonstorytime" class="icon facebook">
-<span><i class="fab fa-facebook-f"></i></span>
-</a>
-<a href="https://www.twitter.com/toonnongaeoy" class="icon twitter">
-<span><i class="fab fa-twitter"></i></span>
-</a>
-<a href="https://www.instagram.com/toonnongaeoy" class="icon instagram">
-<span><i class="fab fa-instagram"></i></span>
-</a>
-<a href="https://www.github.com/toonnongaeoy" class="icon github">
-<span><i class="fab fa-github"></i></span>
-</a>
-<a href="https://www.youtube.com/@toonstorytime" class="icon youtube">
-<span><i class="fab fa-youtube"></i></span>
-</a>
-<a href="https://discord.gg/XeE85yB" class="icon discord">
-<span><i class="fab fa-discord"></i></span>
-</a>
-<!--- Ending here --->
-</div>
+## Developing
+
+Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+
+```bash
+npm run dev
+
+# or start the server and open the app in a new browser tab
+npm run dev -- --open
 ```
 
-# We need more qoutes on our site
-If you have quote to put on our site you can send in the forms [here](https://forms.gle/iUNJjZUy76F24XdE8). Or just make pull request on the [quote.js script](https://github.com/toonnongaeoy/my-linktree/edit/main/quote.js) like this
-```javascript
-"\"This is a example quotes that has been here before.\" - ToonNongAeoy",
-"\"This is a example quotes that going to add on the site.\" - ToonNongAeoy",
+## Building
+
+To create a production version of your app:
+
+```bash
+npm run build
 ```
 
-#
+You can preview the production build with `npm run preview`.
 
-Made with ❤️ by Cartoon Kritthapath Yaviraj
+> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
