@@ -5,6 +5,6 @@
 
 <div class="card">
     <div class="card-body">
-        {quote}
+        {$quote}
     </div>
 </div>

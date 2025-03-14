@@ -1,6 +1,11 @@
-import { quote , origin } from '$lib/stores/quotesv'
-const out = await fetch('https://quotesv.vercel.app')
-const qt = await out.json();
+import { quote, origin } from '$lib/stores/quotesv';
 
-quote.set(qt.quote);
-origin.set(qt.origin);
+fetch("https://quotesv.vercel.app/")
+  .then(response => response.json())
+  .then(data => {
+    quote.set(data.quote);
+    origin.set(data.origin);
+  })
+  .catch(error => {
+    console.error("Error fetching quote:", error);
+  });
