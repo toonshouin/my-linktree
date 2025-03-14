@@ -1,5 +1,5 @@
 <script>
-	import Amplitude from "$lib/components/amplitude.svelte";
+	import Amplitude from "$lib/components/player.svelte";
 </script>
 
 <div class="flex flex-col justify-center items-center space-x-2 space-y-2 p-4">

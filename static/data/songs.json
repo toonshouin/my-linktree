@@ -23,6 +23,12 @@
             "url": "songs/yourmom.mp3",
             "yt_url": "https://www.youtube.com/watch?v=RStTF00aR24",
             "song_link": "https://song.link/s/7lCcXEYm1q2Z7ymF467hkY"
+        },
+        {
+            "name": "ชาละวัน",
+            "artist": "ศาลา",
+            "url": "songs/salawan.mp3",
+            "yt_url": "https://www.youtube.com/watch?v=oMetbiesD7s"
         }
     ]
 }

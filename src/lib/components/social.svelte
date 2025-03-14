@@ -36,7 +36,7 @@
             </a>
         </div>
         <div class="flex flex-col justify-center">
-            <a class="btn btn-ghost" href="msnim:chat?contact=kritthapath@escargot.chat" aria-label="Reddit link">
+            <a class="btn btn-ghost" href="msnim:chat?contact=kritthapath@escargot.chats" aria-label="Reddit link">
                 <img class="w-[2rem]" src="https://camo.githubusercontent.com/209915c36aec55224e56ea7b8970f07405bfecd0d9fa7633c4b91c02af50c6ab/68747470733a2f2f69636f6e6170652e636f6d2f77702d636f6e74656e742f66696c65732f66622f3335333337332f706e672f3335333337332e706e67" alt="MSN logo" />
             </a>
         </div>
