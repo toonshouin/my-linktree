@@ -29,8 +29,13 @@ export default defineConfig({
 					environment: 'node',
 					include: ['src/**/*.{test,spec}.{js,ts}'],
 					exclude: ['src/**/*.svelte.{test,spec}.{js,ts}']
-				}
+				},
+
 			}
 		]
+	},
+
+	server: {
+		allowedHosts: ['oeichi-lt.tail7d3ef.ts.net']
 	}
 });
