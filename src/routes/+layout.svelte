@@ -74,15 +74,15 @@
 	let { children } = $props();
 </script>
 
-<head>
+<svelte:head>
 	<title>ToonOeichi's Carrd!</title>
 	<meta name="description" content="ToonOeichi's Carrd!"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1"/>
 	<meta name="theme-color" content="#000000"/>
 	<meta name="og:title" content="ToonOeichi's Carrd!"/>
 	<meta name="og:description" content="ToonOeichi's Carrd!"/>
-	
-</head>
+	<meta name="og:image" content="icon/oeichi-flat.svg"/>
+</svelte:head>
 
 <Header />
 <Social />
