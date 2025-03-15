@@ -1,6 +1,6 @@
 import { quote, origin } from '$lib/stores/quotesv';
 
-fetch("https://quotesv.vercel.app/")
+fetch("https://quotesv.vercel.app")
   .then(response => response.json())
   .then(data => {
     quote.set(data.quote);

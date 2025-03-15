@@ -1,5 +1,5 @@
 import { browser } from '$app/environment';
-import { yt_url, song_link, index, songs as songsStore } from '$lib/stores/amplitude';
+import { yt_url, song_link, index, isPlaying, songs as songsStore } from '$lib/stores/amplitude';
 import { get } from 'svelte/store';
 
 let songs = [];
@@ -86,6 +86,7 @@ async function initializeAmplitude(songsData = null) {
           if (!browser) return;
           
           try {
+            isPlaying.set(false);
             const activeIndex = Amp.getActiveIndex();
             const activeSongMetadata = Amp.getActiveSongMetadata();
             
@@ -123,6 +124,26 @@ async function initializeAmplitude(songsData = null) {
             console.error("Error in song_change callback:", error);
             yt_url.set('');
             song_link.set('');
+          }
+        },
+        play: function() {
+          if (!browser) return;
+          
+          try {
+            isPlaying.set(true);
+            console.log('Playback started');
+          } catch (error) {
+            console.error("Error in play callback:", error);
+          }
+        },
+        pause: function() {
+          if (!browser) return;
+          
+          try {
+            isPlaying.set(false);
+            console.log('Playback paused');
+          } catch (error) {
+            console.error("Error in pause callback:", error);
           }
         }
       }
