@@ -1,0 +1,35 @@
+{
+    "songs": [
+        {
+            "name": "ความลับมีในโลก (Secert)",
+            "artist": "Ink Waruntorn",
+            "album": "ความลับมีในโลก (Secert) - Single",
+            "url": "songs/secert-ink.mp3",
+            "yt_url": "https://www.youtube.com/watch?v=tfs8AoE_XXc",
+            "song_link": "https://song.link/s/12OcSYq9homFUUyerFDGy2"
+        },
+        {
+            "name": "MSN ( ^_^ )",
+            "artist": "Faye Fang Kaew",
+            "album": "Faye Fang Kaew",
+            "url": "songs/MSN-FFK.mp3",
+            "yt_url": "https://www.youtube.com/watch?v=SeioAfpmHvg",
+            "song_link": "https://song.link/s/6Ro2CIrEXdktfKxRujAUnn"
+        },
+        {
+            "name": "แฟน",
+            "artist": "Lipta",
+            "album": "แฟน",
+            "url": "songs/fan-lipta.mp3",
+            "yt_url": "https://www.youtube.com/watch?v=SeioAfpmHvg",
+            "song_link": "https://song.link/s/7h9G1wNdqxtVsN9dYIFPFM"
+        },
+        {
+            "name": "นักศึกษา ( speed up ) - tiktok version",
+            "artist": "JAOKHUN",
+            "album": "นักศึกษา",
+            "url": "songs/naksusak-tiktok.mp3",
+            "yt_url": "https://www.youtube.com/watch?v=uayQ4boI0q4"
+        }
+    ]
+}
