@@ -26,6 +26,10 @@
                 <span>NGL &lt;3</span>
             </a>
             <a class="btn bg-neutral text-white border-base-300" href="stuff">
+                <img src="https://icons.hackclub.com/api/icons/white/card" alt="Card Icon" class="w-[1rem] mr-2" />
+                Donate
+            </a>
+            <a class="btn bg-neutral text-white border-base-300" href="stuff">
                 <img src="icon/shopping.svg" alt="Shopping Icon" class="w-[1rem] mr-2" />
                 Shopping List
             </a>
