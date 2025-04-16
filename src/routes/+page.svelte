@@ -25,7 +25,7 @@
                 <img src="icon/ngl.avif" alt="NGL Icon" class="w-[1rem] mr-2" />
                 <span>NGL &lt;3</span>
             </a>
-            <a class="btn bg-neutral text-white border-base-300" href="stuff">
+            <a class="btn bg-neutral text-white border-base-300" href="donate">
                 <img src="https://icons.hackclub.com/api/icons/white/card" alt="Card Icon" class="w-[1rem] mr-2" />
                 Donate
             </a>
