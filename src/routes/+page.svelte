@@ -21,7 +21,7 @@
                 <img src="icon/read-cv.svg" alt="CV Icon" class="w-[1rem] mr-2" />
                 Resume
             </a>
-            <a class="btn bg-neutral text-white border-base-300" href="https://ngl.link/toonaoeychi" target="_blank" rel="noopener noreferrer">
+            <a class="btn bg-neutral text-white border-base-300" href="https://ngl.link/toonshouin" target="_blank" rel="noopener noreferrer">
                 <img src="icon/ngl.avif" alt="NGL Icon" class="w-[1rem] mr-2" />
                 <span>NGL &lt;3</span>
             </a>
