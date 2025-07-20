@@ -21,6 +21,10 @@
                 <img src="icon/read-cv.svg" alt="CV Icon" class="w-[1rem] mr-2" />
                 Resume
             </a>
+            <a class="btn bg-neutral text-white border-base-300" href="https://docs.google.com/spreadsheets/d/1pYhcPGQt9f1Wc_bnUdUo8mY5mcYeG8xu_pgQHR5OVkw/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+                <img src="icon/calendar.svg" alt="CV Icon" class="w-[1rem] mr-2" />
+                ToonStoryTime's Schedule
+            </a>
             <a class="btn bg-neutral text-white border-base-300" href="https://ngl.link/toonshouin" target="_blank" rel="noopener noreferrer">
                 <img src="icon/ngl.avif" alt="NGL Icon" class="w-[1rem] mr-2" />
                 <span>NGL &lt;3</span>
