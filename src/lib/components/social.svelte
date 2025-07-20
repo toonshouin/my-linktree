@@ -6,22 +6,22 @@
             </a>
         </div>
         <div class="flex flex-col justify-center p-2">
-            <a href="https://x.com/toonoeichi" aria-label="Twitter link">
+            <a href="https://x.com/toonshouin" aria-label="Twitter link">
                 <img class="w-[2rem]" src="icon/twitter.svg" alt="Twitter logo" />
             </a>
         </div>
         <div class="flex flex-col justify-center p-2">
-            <a href="https://fb.me/toonoeichi" aria-label="Facebook link">
+            <a href="https://fb.me/toonshouin" aria-label="Facebook link">
                 <img class="w-[2rem]" src="icon/facebook.svg" alt="Facebook logo" />
             </a>
         </div>
         <div class="flex flex-col justify-center p-2">
-            <a href="https://instagram.com/toonoeichi/" aria-label="Instagram link">
+            <a href="https://instagram.com/toonshouin/" aria-label="Instagram link">
                 <img class="w-[2rem]" src="icon/instagram.svg" alt="Instagram logo" />
             </a>
         </div>
         <div class="flex flex-col justify-center p-2">
-            <a href="https://www.threads.net/@toonoeichi" aria-label="Threads link">
+            <a href="https://www.threads.net/@toonshouin" aria-label="Threads link">
                 <img class="w-[2rem]" src="icon/threads.svg" alt="Threads Logo" />
             </a>
         </div>
@@ -36,17 +36,17 @@
             </a>
         </div>
         <div class="flex flex-col justify-center p-2">
-            <a href="https://www.linkedin.com/in/toonnongaeoy/" aria-label="Linkedin link">
+            <a href="https://www.linkedin.com/in/toonoeichi/" aria-label="Linkedin link">
                 <img class="w-[2rem]" src="icon/linkedin.svg" alt="Linkedin logo" />
             </a>
         </div>
         <div class="flex flex-col justify-center p-2">
-            <a href="https://github.com/toonoeichi" aria-label="Github link">
+            <a href="https://github.com/toonshouin" aria-label="Github link">
                 <img class="w-[2rem]" src="icon/github.svg" alt="Github logo" />
             </a>
         </div>
         <div class="flex flex-col justify-center p-2">
-            <a href="https://bsky.app/profile/toonstorytime.me" aria-label="Bluesky link">
+            <a href="https://bsky.app/profile/toonshou.in" aria-label="Bluesky link">
                 <img class="w-[2rem]" src="icon/bluesky.svg" alt="Bluesky logo" />
             </a>
         </div>
