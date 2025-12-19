@@ -13,17 +13,13 @@
             <div class="pb-4">
                 <Quotes />
             </div>
-            <a class="btn bg-neutral text-white border-base-300" href="https://www.toonstorytime.me" target="_blank" rel="noopener noreferrer">
+            <a class="btn bg-neutral text-white border-base-300" href="https://www.toonshou.in" target="_blank" rel="noopener noreferrer">
                 <img src="icon/Globe_icon.svg" alt="Globe Icon" class="w-[1rem] mr-2" />
                 Website
             </a>
-            <a class="btn bg-neutral text-white border-base-300" href="https://resume.toonstorytime.me" target="_blank" rel="noopener noreferrer">
+            <a class="btn bg-neutral text-white border-base-300" href="https://resume.toonshou.in" target="_blank" rel="noopener noreferrer">
                 <img src="icon/read-cv.svg" alt="CV Icon" class="w-[1rem] mr-2" />
                 Resume
-            </a>
-            <a class="btn bg-neutral text-white border-base-300" href="https://docs.google.com/spreadsheets/d/1pYhcPGQt9f1Wc_bnUdUo8mY5mcYeG8xu_pgQHR5OVkw/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
-                <img src="icon/calendar.svg" alt="CV Icon" class="w-[1rem] mr-2" />
-                ToonStoryTime's Schedule
             </a>
             <a class="btn bg-neutral text-white border-base-300" href="https://ngl.link/toonshouin" target="_blank" rel="noopener noreferrer">
                 <img src="icon/ngl.avif" alt="NGL Icon" class="w-[1rem] mr-2" />
