@@ -10,7 +10,7 @@
                     <span>ตอนนี้กำลังทดลองใช้ระบบ EasyDonate อยู่นะ แนะนำเลย ใครอยากให้เต็มหน่วยทุกช่องทาง (วอเล็ต / โอน / พร้อมเพย์) ใช้ช่องทางนี้เลยน้าา!!</span>
                 </div>
             </div>
-            <a class="btn bg-neutral text-white border-base-300" href="https://ezdn.app/toonoeichi" target="_blank" rel="noopener noreferrer">
+            <a class="btn bg-neutral text-white border-base-300" href="https://ezdn.app/toonshouin" target="_blank" rel="noopener noreferrer">
                 <img src="https://icons.hackclub.com/api/icons/white/payment-docs" alt="Club Icon" class="w-[1rem] mr-2" />
                 EasyDonate <span class="font-bold">(แนะนำ)</span>
             </a>
